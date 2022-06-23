@@ -6,7 +6,7 @@ SNHU CS255 Final Submission
 * What did you do particularly well?
   I feel as though I did particularly well on translating the stated needs of the client into the requirements for the system.   This is a critical step in the process     as any requirements missed here won't be included in the final deliverable or will require re-work to add in later.
 
-*If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+* If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
   I would go back and add some additional complexity to the UML Diagrams.  I feel as though they could use some additional complexity to more fully represent the systems   being implemented.
 
 * How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
